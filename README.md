@@ -1,14 +1,9 @@
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About the project
 
-The project created in my spare time and is based on [https://laraveldaily.com/test-junior-laravel-developer-sample-project/](https://laraveldaily.com/test-junior-laravel-developer-sample-project/).
+Just another project created in my spare time. The inspiration was [https://laraveldaily.com/test-junior-laravel-developer-sample-project/](https://laraveldaily.com/test-junior-laravel-developer-sample-project/).
 
-### Built With
+## Built With
 
 * [Laravel 8.x](https://laravel.com)
 * [Bootstrap 4.x](https://getbootstrap.com/)
-
-<!-- LICENSE -->
-## License
-
-Do whatever you want.
